@@ -1,6 +1,6 @@
 # Project-Description
 
-<p>Twitter Sentiment Extraction</p>
+<p><u>Twitter Sentiment Extraction</u></p>
 
 ### Group Members
 
