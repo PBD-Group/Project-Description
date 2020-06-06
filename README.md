@@ -1,13 +1,12 @@
 # Project-Description
 
-<h>SUBJECT<\h>--> Semester Project
+SUBJECT--> Semester Project
+Project Name-->Twitter Sentiment Extraction 
 
-Project Name:TWITTER SENTIMENT EXTRACTION 
+## Group Members:
 
-
-Group Members:
-AROOJ FATIMA (L1F18BSCS0091)
-AQSA RAZA (L1F18BSCS0220)
-ZAINAB NAVEED (L1F18BSCS0207)
-RAFAY MAHMOOD (L1F18BSCS0095)
+-Arooj Fatima (L1F18BSCS0091)
+-Aqsa Raza (L1F18BSCS0220)
+-Zainab Naveed (L1F18BSCS0207)
+-Rafay Mahmood (L1F18BSCS0095)
 
