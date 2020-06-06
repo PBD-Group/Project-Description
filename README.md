@@ -1,9 +1,9 @@
 # Project-Description
 
-SUBJECT--> Semester Project
+<h>SUBJECT--> Semester Project</h>
 Project Name-->Twitter Sentiment Extraction 
 
-## Group Members:
+### Group Members:
 
 - Arooj Fatima (L1F18BSCS0091)
 - Aqsa Raza (L1F18BSCS0220)
