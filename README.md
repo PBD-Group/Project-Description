@@ -24,13 +24,10 @@ Twitter Sentiment Analysis,using advanced text mining techniques is to analyze t
 
 We can identify four main steps in this process:
 
-1-Data gathering
-
-2-Data preparing
-
-3-The creation of the sentiment analysis model
-
-4-Visualization of the results
+-Data gathering
+-Data preparing
+-The creation of the sentiment analysis model
+-Visualization of the results
 
 ## Aplications of Twitter Sentiment Analysis
 
@@ -38,6 +35,10 @@ We can identify four main steps in this process:
 
 Companies use Twitter Sentiment Analysis to develop their business strategies, to assess customers’ feelings towards products or brand, how people respond to their campaigns or product launches and also why consumers are not buying certain products.
 
-### Politics
+#### Politics
 
 In politic,Twitter Sentiment Analysis is used to keep track of political views, to detect consistency and inconsistency between statements and actions at the government level. Sentiment Analysis Dataset Twitter is also used for analyzing election results.
+
+#### Public Actions
+
+Twitter Sentiment Analysis also is used for monitoring and analyzing social phenomena, for predicting potentially dangerous situations and determining the general mood of the blogosphere.
