@@ -35,3 +35,9 @@ We can identify four main steps in this process:
 ## Aplications of Twitter Sentiment Analysis
 
 #### Business
+
+Companies use Twitter Sentiment Analysis to develop their business strategies, to assess customers’ feelings towards products or brand, how people respond to their campaigns or product launches and also why consumers are not buying certain products.
+
+### Politics
+
+In politic,Twitter Sentiment Analysis is used to keep track of political views, to detect consistency and inconsistency between statements and actions at the government level. Sentiment Analysis Dataset Twitter is also used for analyzing election results.
