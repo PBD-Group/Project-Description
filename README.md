@@ -24,10 +24,13 @@ Twitter Sentiment Analysis,using advanced text mining techniques is to analyze t
 
 We can identify four main steps in this process:
 
--Data gathering
--Data preparing
--The creation of the sentiment analysis model
--Visualization of the results
+1-Data gathering
+
+2-Data preparing
+
+3-The creation of the sentiment analysis model
+
+4-Visualization of the results
 
 ## Aplications of Twitter Sentiment Analysis
 
