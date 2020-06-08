@@ -18,7 +18,6 @@
 
 <p>Twitter sentiment analysis systems allow you to sort large sets of tweets and detect the polarity of each statement automatically. And the best part, it’s fast and simple, saving teams valuable hours and allowing them to focus on tasks where they can make a bigger impact.</p>
 
-
 ## Sentiment Analysis with Twitter Data
 
-Sentiment Analysis is a technique widely used in text mining. Twitter Sentiment Analysis, therefore means, using advanced text mining techniques to analyze the sentiment of the text (here, tweet) in the form of positive, negative and neutral.
+Twitter Sentiment Analysis,using advanced text mining techniques is to analyze the sentiment of the tweet in the form of positive, negative and neutral.
