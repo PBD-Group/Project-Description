@@ -31,3 +31,7 @@ We can identify four main steps in this process:
 3-The creation of the sentiment analysis model
 
 4-Visualization of the results
+
+## Aplications of Twitter Sentiment Analysis
+
+#### Business
