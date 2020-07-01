@@ -1,6 +1,6 @@
 # PBD's Project
 
-<p>Twitter Sentiment Extraction</p>
+<p>Twitter Sentiment Analysis</p>
 
 ### Group Members
 
