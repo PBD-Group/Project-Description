@@ -45,3 +45,5 @@ In politic,Twitter Sentiment Analysis is used to keep track of political views, 
 #### Public Actions
 
 Twitter Sentiment Analysis also is used for monitoring and analyzing social phenomena, for predicting potentially dangerous situations and determining the general mood of the blogosphere.
+
+#### Project code and used dataset are uploaded.
